@@ -1,5 +1,5 @@
 # AWS-Terraform
-erraform:
+Terraform:
 ------------
 
 In order to launch your first EC2 instance using Terraform, you need to make sure you are ready with few things mentioned below: -
